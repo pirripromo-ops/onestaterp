@@ -1,0 +1,86 @@
+
+ .OneState {
+	color: orange;
+	font-size: 60px ;
+ }
+ .role {
+	color: red;
+	font-size: 50px ;
+ }
+ .pong {
+	color: peru;
+	font-size: 49px ;
+	
+
+
+
+ }
+ .girl {
+	color:  chocolate;
+ }
+ .ping {
+	background-color: darkgoldenrod;
+	padding: 10px ;
+
+ }
+ h1 {
+	font-family:Arial ;
+	color: red;
+	font-size: 60px ;
+ }
+ a {
+text-decoration: none;
+color: white;
+ }
+body {
+	background: linear-gradient(to right,purple,blue);
+}
+
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+}
+.boy {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 32px ;
+} 
+.title { 
+	text-align: center; } 
+.OneState { 
+	margin-left: 150px ;
+	}
+	h4 {color: coral;
+	font-size: 30px ;
+	margin-left: 125px ;    
+	 font-size: 45px;
+	 }
+	.photo {
+    width: 600px;
+    height: auto;
+}
+
+.more {
+    width: 700px;
+    height: auto;
+    float: right;
+    margin-top: -647px;
+    margin-right: 500px;
+}
+
+
+img {
+    width: 1050px;
+    height: auto;
+    float: right;
+    margin: 10px;
+	margin-top: -1350px;
+	margin-left: 300px;
+}
+.bit { width: 120px;
+    height: auto;
+    float: right;
+    margin-top: -1450px;
+    margin-left: 100px;
+margin-right: 1770px; }
+
+	
